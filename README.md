@@ -120,13 +120,15 @@ The team claims full ownership of the implementation, integration, and documenta
 
 /prototype
  ├── ## prototype
-     https://wokwi.com/projects/451695512973784065
+  [Wokwi Simulation](https://wokwi.com/projects/451695512973784065)
+
  ├── ## Schematic Diagram
  
 
 /Source code
  ├── ## Source Code
   [ESP32 Arduino Code](code/esp32_self_healing_automation.ino)
+
 
 
 
