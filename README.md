@@ -123,7 +123,8 @@ The team claims full ownership of the implementation, integration, and documenta
  ├── ## Schematic Diagram
  
 
-/code
- └── ## Code
+/Source code
+ ├── ## Source Code
+  [ESP32 Arduino Code](code/esp32_self_healing_automation.ino)
 
-    [text](https://github.com/shubhpandey2985-ctrl/IoT-Self-Healing-Smart-Automation-System/blob/4326c7f5e108061d98e40f237fc4d544f56add53/code/esp32_self_healing_automation.ino))
+
