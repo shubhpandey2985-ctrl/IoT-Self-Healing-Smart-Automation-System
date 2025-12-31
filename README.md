@@ -111,7 +111,7 @@ The team claims full ownership of the implementation, integration, and documenta
 >> 
 /docs
  ├── ## Flowchart TB
-     [text](<Flowchart TB.md>)
+     [Flowchart TB](diagrams/Flowchart TB.md)
  ├── ## System Flowchart
      ![alt text](https://github.com/shubhpandey2985-ctrl/IoT-Self-Healing-Smart-Automation-System/blob/beac912a2941cb10f7424c2d3d8d77f47f007ef6/diagrams/Logic%20flowchart.png)
  ├──  ## Data Flow Diagram
@@ -126,5 +126,6 @@ The team claims full ownership of the implementation, integration, and documenta
 /Source code
  ├── ## Source Code
   [ESP32 Arduino Code](code/esp32_self_healing_automation.ino)
+
 
 
