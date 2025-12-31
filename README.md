@@ -113,9 +113,9 @@ The team claims full ownership of the implementation, integration, and documenta
  ├── ## Flowchart TB
      [text](<Flowchart TB.md>)
  ├── ## System Flowchart
-     ![alt text](image-1.png)
+     ![alt text](https://github.com/shubhpandey2985-ctrl/IoT-Self-Healing-Smart-Automation-System/blob/beac912a2941cb10f7424c2d3d8d77f47f007ef6/diagrams/Logic%20flowchart.png)
  ├──  ## Data Flow Diagram
-     ![alt text](image-2.png)
+     ![alt text](https://github.com/shubhpandey2985-ctrl/IoT-Self-Healing-Smart-Automation-System/blob/beac912a2941cb10f7424c2d3d8d77f47f007ef6/diagrams/DFD.png)
 
 /prototype
  ├── ## prototype
@@ -125,4 +125,5 @@ The team claims full ownership of the implementation, integration, and documenta
 
 /code
  └── ## Code
-    [text](../../AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/45EA6C26B176EAD3DB748632A5AE182B70B95C6F/transfers/2025-52/esp32_self_healing_automation.ino)
+
+    [text](https://github.com/shubhpandey2985-ctrl/IoT-Self-Healing-Smart-Automation-System/blob/4326c7f5e108061d98e40f237fc4d544f56add53/code/esp32_self_healing_automation.ino))
